@@ -1,0 +1,1 @@
+GEN_CSRCS += _CO2_alpha_101x111.c _2_alpha_54x54.c _1_alpha_54x54.c _CO_alpha_103x111.c _battery_bak_32x13.c _a_alpha_19x15.c _image_077553124491390_38x34.c
